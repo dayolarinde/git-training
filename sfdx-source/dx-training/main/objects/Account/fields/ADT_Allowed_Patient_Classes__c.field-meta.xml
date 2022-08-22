@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>ADT_Allowed_Patient_Classes__c</fullName>
     <externalId>false</externalId>
-    <label>ADT Allowed Patient Classes</label>
+    <label>ADT Allowed Patient Class(es)</label>
     <length>255</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
