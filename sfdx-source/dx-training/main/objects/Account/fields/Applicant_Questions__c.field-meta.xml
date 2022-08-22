@@ -3,8 +3,8 @@
     <fullName>Applicant_Questions__c</fullName>
     <externalId>false</externalId>
     <label>Applicant Conflicting Questions Test 2</label>
-    <length>3000</length>
-    <trackFeedHistory>false</trackFeedHistory>
+    <length>2000</length>
+    <trackFeedHistory>true</trackFeedHistory>
     <trackHistory>true</trackHistory>
     <type>LongTextArea</type>
     <visibleLines>4</visibleLines>
