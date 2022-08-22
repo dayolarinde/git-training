@@ -8,7 +8,7 @@ YEAR (Today()) - YEAR ( Date_of_Birth__c ),
 YEAR (Today()) - YEAR ( Date_of_Birth__c ) -1 ),
 null)</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-    <label>Age</label>
+    <label>Assumed Age</label>
     <precision>18</precision>
     <required>false</required>
     <scale>0</scale>
